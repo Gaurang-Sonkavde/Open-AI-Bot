@@ -1,6 +1,6 @@
 numpy==1.21.6
 openai==0.27.6
-pywin32==302
+pywin32==223; sys_platform == "win32"
 streamlit==1.11.1
 yfinance==0.1.70
 SpeechRecognition==3.8.1
