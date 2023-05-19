@@ -2,7 +2,6 @@ import streamlit as st
 import speech_recognition as sr
 import webbrowser
 import openai 
-import os
 import datetime
 import random
 import numpy as np 
