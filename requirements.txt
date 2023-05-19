@@ -1,7 +1,7 @@
 numpy==1.21.6
 openai==0.27.6
-pywin32==304
-streamlit==1.18.1
-yfinance==0.2.10
-SpeechRecognition==3.10.0
-PyAudio==0.2.13
+pywin32==303
+streamlit==1.11.1
+yfinance==0.1.70
+SpeechRecognition==3.8.1
+PyAudio==0.2.11
